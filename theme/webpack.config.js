@@ -7,7 +7,7 @@ var cssimport = require('postcss-import')
 module.exports = {
   entry: './source/js/index.js',
   output: {
-    path: __dirname + './bundle/',
+    path: __dirname + '/bundle/',
     filename: 'index.js'
   },
   postcss: function (webpack) {

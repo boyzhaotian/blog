@@ -8,7 +8,7 @@ site:
     comment: username
     logo: "-/images/sail.jpeg"
     # link: "{category}/{year}/{month}/{day}/{title}.html"
-    # root: "/blog"
+    root: "/blog"
 
 authors:
     me:
