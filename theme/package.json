@@ -5,7 +5,7 @@
     "start": "./node_modules/.bin/webpack --progress --colors --watch",
     "build": "./node_modules/.bin/webpack --progress --colors"
   },
-  "description": "InkPaper Default Theme",
+  "description": "Sky's Blog",
   "devDependencies": {
     "autoprefixer": "^6.3.6",
     "css-loader": "^0.22.0",

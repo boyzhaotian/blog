@@ -1,12 +1,12 @@
 title: "学习资料 - 前端"
-date: 2018-05-23 12:40:00 +0800
+date: 2018-05-08 18:29:58 +0800
 update: 2018-05-23 12:40:00 +0800
 author: me
 cover: "-/images/example-en.png"
 tags:
     - 学习
     - 前端
-<!-- preview: InkPaper is an static blog generator developed by Golang, No dependencies, Cross platform, Easy use, Fast build, Elegant theme. -->
+preview: LearningFiles 系列笔记 lf_webFrontend 前端笔记。欢迎大家参阅并提出宝贵意见。Github 仓库传送门：[前端基础知识汇总.md](前端基础知识汇总.md)
 
 ---
 
