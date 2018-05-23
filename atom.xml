@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
+  <title>赵大仁的博客</title>
+  <id>http://boyzhaotian.github.io/blog</id>
+  <updated>2018-05-23T11:15:50Z</updated>
+  <subtitle>生活、技术、内心戏</subtitle>
+  <link href="http://boyzhaotian.github.io/blog"></link>
+  <author>
+    <name>赵大仁的博客</name>
+  </author>
+  <entry>
+    <title>「Hello World」via Ink &amp; Travis CI</title>
+    <updated>2018-05-23T17:00:00+08:00</updated>
+    <id>tag:boyzhaotian.github.io,2018-05-23:/blog/「hello world」 via ink.html</id>
+    <link href="http://boyzhaotian.github.io/blog/「hello world」 via ink.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;如果你希望拥有自己的博客，一个简洁、美观，能让你安静写字的地方，不妨尝试一下「纸小墨Ink」这个工具。这篇文章详细讲解了它的使用方法，以及如何通过「Travis CI」来部署。&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>赵大仁</name>
+    </author>
+  </entry>
+  <entry>
+    <title>学习资料 - 前端</title>
+    <updated>2018-05-23T12:40:00+08:00</updated>
+    <id>tag:boyzhaotian.github.io,2018-05-23:/blog/lf_webfrontend.html</id>
+    <link href="http://boyzhaotian.github.io/blog/lf_webfrontend.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;LearningFiles 系列笔记 lf_webFrontend 前端笔记。欢迎大家参阅并提出宝贵意见。Github 仓库传送门：&lt;a href=&#34;前端基础知识汇总.md&#34;&gt;前端基础知识汇总.md&lt;/a&gt;&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>赵大仁</name>
+    </author>
+  </entry>
+  <entry>
+    <title>简洁的静态博客构建工具 —— 纸小墨（InkPaper）</title>
+    <updated>2016-07-11T17:00:00+08:00</updated>
+    <id>tag:boyzhaotian.github.io,2016-07-11:/blog/ink-blog-tool.html</id>
+    <link href="http://boyzhaotian.github.io/blog/ink-blog-tool.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;纸小墨（InkPaper）是一个GO语言编写的开源静态博客构建工具，可以快速搭建博客网站。它无依赖跨平台，配置简单构建快速，注重简洁易用与更优雅的排版。&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>纸小墨</name>
+    </author>
+  </entry>
+  <entry>
+    <title>An Elegant Static Blog Generator —— InkPaper</title>
+    <updated>2016-07-11T17:00:00+08:00</updated>
+    <id>tag:boyzhaotian.github.io,2016-07-11:/blog/ink-blog-tool-en.html</id>
+    <link href="http://boyzhaotian.github.io/blog/ink-blog-tool-en.html" rel="alternate"></link>
+    <summary type="html">&lt;p&gt;InkPaper is an static blog generator developed by Golang, No dependencies, Cross platform, Easy use, Fast build, Elegant theme.&lt;/p&gt;&#xA;</summary>
+    <author>
+      <name>纸小墨</name>
+    </author>
+  </entry>
+</feed>
